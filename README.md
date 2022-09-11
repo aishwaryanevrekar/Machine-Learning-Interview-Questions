@@ -15,5 +15,6 @@ Follow me on Twitter : https://twitter.com/nevrekaraishwa2
 | 5     |Crack the top 40 machine learning interview questions         |https://grokkingtechinterview.com/crack-the-top-40-machine-learning-interview-questions-b385f550a695|
 | 6     |Interview resources : ML/Data Science/AI Research Engineer    |https://purvanshimehta.medium.com/interview-resources-ml-data-science-ai-research-engineer-4703518d208e|
 | 7     |ML Interview questions and answers                            | https://gunjanagicha.medium.com/ml-interview-questions-and-answers-b339c6dd12da|
-
-
+| 8     |A Guide To Machine Learning Interview Questions And Answers   |https://medium.com/edureka/machine-learning-interview-questions-a5aef8a3ca60    |
+| 9     | Top 6 Machine Learning Algorithms                            |https://afrozchakure.medium.com/top-6-machine-learning-algorithms-44db10129c66  |
+| 10    |Machine learning interview preparation — ML algorithms        |https://medium.com/@marizombie/machine-learning-interview-preparation-ml-algorithms-1e1eba78194c|
