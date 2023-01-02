@@ -18,3 +18,6 @@ Follow me on Twitter : https://twitter.com/nevrekaraishwa2
 | 8     |A Guide To Machine Learning Interview Questions And Answers   |https://medium.com/edureka/machine-learning-interview-questions-a5aef8a3ca60    |
 | 9     | Top 6 Machine Learning Algorithms                            |https://afrozchakure.medium.com/top-6-machine-learning-algorithms-44db10129c66  |
 | 10    |Machine learning interview preparation — ML algorithms        |https://medium.com/@marizombie/machine-learning-interview-preparation-ml-algorithms-1e1eba78194c|
+| 11    |Machine Learning IP - EDUREKA -Questions and Answers          |https://www.youtube.com/watch?v=t6gOpFLt-Ks&ab_channel=edureka%21               |
+| 12    |100 Common Interview Questions on ML                          |https://www.youtube.com/watch?v=yA_Vtygj5FA                                     |
+| 13    |Machine Learning Interview Questions-Krish Naik               |https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCpQdY|
