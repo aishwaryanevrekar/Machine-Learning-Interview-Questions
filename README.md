@@ -1,9 +1,6 @@
-# Machine-Learning-Interview-Questions
-This repository is regarding important questions asked in Machine Learning Engineer Interviews. This repository can be referred for Machine Learning Interview Preparation
+# 🔥🔥Machine-Learning-Interview-Questions🔥🔥
 
-Follow me on LinkedIn : https://www.linkedin.com/in/aishwaryanevrekar/
-
-Follow me on Twitter : https://twitter.com/nevrekaraishwa2
+![alt text](aishwarya.jpg)
 
 
 | Sr No | Name                                                         | Link                                                                  |
