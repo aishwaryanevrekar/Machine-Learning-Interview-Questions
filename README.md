@@ -18,3 +18,22 @@
 | 11    |Machine Learning IP - EDUREKA -Questions and Answers          |https://www.youtube.com/watch?v=t6gOpFLt-Ks&ab_channel=edureka%21               |
 | 12    |100 Common Interview Questions on ML                          |https://www.youtube.com/watch?v=yA_Vtygj5FA                                     |
 | 13    |Machine Learning Interview Questions-Krish Naik               |https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCpQdY|
+| 14    |Data Science Interviewer Pro By Emma Ding                     | https://youtube.com/playlist?list=PLY1Fi4XflWStFs6tLQ3Gey2Aaq_U4-Xnc|
+| 15    |Data Science Interview Questions Quick Overview By Simplilearn | https://youtu.be/5JZsSNLXXuE|
+
+
+![alt text](cheat_sheets_data_science_interviews_1.png)
+
+### Cheatsheets are More Useful When You're Preparing Interviews,Here Are Few Cheatsheets Which Will Help You To Ace Data Science Interview ⬇️
+
+
+| Sr. No | Name of Cheatsheet                                                         | Link                                                                  |
+| ----- | ------------------------------------------------------------ | --------------------------------------------------------------------- |
+|1| Basic Cheat Sheet For SQL|https://learnsql.com/blog/sql-basics-cheat-sheet|
+|2| SQL Cheat Sheet – Technical Concepts for the Job Interview |https://www.stratascratch.com/blog/sql-cheat-sheet-technical-concepts-for-the-job-interview|
+|3| Python Cheat Sheet |https://websitesetup.org/python-cheat-sheet/|
+|4| Comprehensive Python Cheatsheet |https://github.com/gto76/python-cheatsheet|
+|5| Data Wrangling With pandas Cheat Sheet |https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf|
+|6|Data Visualization Cheat Sheet |https://www.kaggle.com/getting-started/160583|
+|7|Statistics Cheat Sheet|https://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf|
+|8|Your Ultimate Data Science Statistics & Mathematics Cheat Sheet|https://towardsdatascience.com/your-ultimate-data-science-statistics-mathematics-cheat-sheet-d688a48ad3db|
